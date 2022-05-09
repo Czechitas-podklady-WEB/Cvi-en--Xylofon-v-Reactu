@@ -1,5 +1,7 @@
 # Cvičení: Xylofon
 
+Náhled výsledku na Netlify [xylofon.netlify.app](https://xylofon.netlify.app/).
+
 ## Zadání
 
 Oživ xylofon, aby kliknutí na jednotlivé kameny měnilo nadpis stránky podle písmene na kameni a ozval se příslušný tón.
