@@ -1,5 +1,4 @@
-import React from 'react'
-import { zahraj } from './zahraj'
+import { zahraj } from '../zahraj'
 
 // 1. Nahraď jednotlivé tlačítka/kameny za výpis pole pomocí `.map`. Použij následující pole `kameny`.
 const kameny = ['C', 'D', 'E', 'F', 'G', 'A', 'B']

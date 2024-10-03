@@ -1,6 +1,7 @@
-import React from 'react'
-import { createRoot } from 'react-dom/client'
-import './style.css'
-import { Xylofon } from './Xylofon'
+import { createRoot } from 'react-dom/client';
+import { Xylofon } from './components/Xylofon';
+import './global.css';
 
-createRoot(document.querySelector('#app')).render(<Xylofon />)
+createRoot(
+  document.querySelector('#app'),
+).render(<Xylofon />);

@@ -9,5 +9,5 @@ Oživ xylofon, aby kliknutí na jednotlivé kameny měnilo nadpis stránky podle
 1. Vycházej z kódu v tomto repozitáři.
 1. Otevři příkazovou řádku ve složce s podklady.
 1. Nainstaluj závislosti pomocí `npm install`.
-1. Spusť vývojový server přes `npm start`.
-1. Uprav soubor `src/Xylofon.jsx` podle komentářů uvnitř.
+1. Spusť vývojový server přes `npm run dev`.
+1. Uprav soubor `src/components/Xylofon.jsx` podle komentářů uvnitř.
